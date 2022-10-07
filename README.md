@@ -1,7 +1,15 @@
-### Olá a todos, bem vindo ao meu GitHub 👋
+###  👋 Hello and Welcome
 
-Meu nome é Matheus Reis e sou um desenvolvedor .NET/ Vuejs
+.NET Developer at [Luby](https://luby.com.br/)
 
-- 🔭 Trabalho atualmente na Luby, como Desenvolvedor Pleno;
-- 🌱  Fazendo projetos para estudo;
-- 💬  Me pergunte sobre C#, .NET, .NET MVC ou Core, VueJS, JavaScript e SQL Server;
+## 
+
+<div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reismmatheus&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+## 
+
+<div>
+	<img align="center" alt="reismmatheus-visitors" src="https://visitor-badge.laobi.icu/badge?page_id=reismmatheus.reismmatheus">
+</div>
