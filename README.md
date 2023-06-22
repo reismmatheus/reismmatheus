@@ -1,6 +1,6 @@
 ###  👋 Hello and Welcome
 
-.NET Developer at [Luby](https://luby.com.br/)
+.NET Developer
 
 ## 
 
